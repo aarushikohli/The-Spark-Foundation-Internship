@@ -9,6 +9,8 @@ Exploratory data analysis is done to clarify which States, Regions, Products....
 
 Due to an optimization issue between library Plotly and github, Dashboard of profit and sales of the whole USA is not shown in the Notebook.
 
+Dataset: https://bit.ly/3i4rbWl
+
 **Task 4: Exploratory Data Analysis - Terrorism**
 
 (Level - Intermediate)
