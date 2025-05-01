@@ -1,5 +1,5 @@
 # The-Spark-Foundation-Internship-Tasks
-**Task 3: Exploratory Data Analysis - Terrorism**
+**Task 3: Exploratory Data Analysis - Retail**
 
 (Level - Beginner)
 
